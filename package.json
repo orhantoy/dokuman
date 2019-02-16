@@ -1,0 +1,19 @@
+{
+  "name": "dokuman",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Orhan Toy",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "markdown-it": "^8.4.2",
+    "mustache": "^3.0.1",
+    "node-sass": "^4.11.0",
+    "primer-base": "^2.0.0",
+    "primer-markdown": "^4.0.0",
+    "puppeteer": "^1.12.2"
+  },
+  "devDependencies": {
+    "standard": "*"
+  }
+}
